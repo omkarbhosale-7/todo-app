@@ -4,6 +4,7 @@ A containerized Flask application deployed on AWS EC2 with a fully automated CI/
 
 ## 🖥️ Live Demo
 http://13.232.217.232
+Live demo was hosted on AWS EC2 during development; infrastructure has been decommissioned to avoid ongoing cloud costs.
 
 ## 📐 Architecture
 
